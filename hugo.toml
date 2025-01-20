@@ -1,0 +1,78 @@
+baseURL = 'https://mackenziewood.io/'
+languageCode = 'en-us'
+title = 'Mackenzie Wood'
+theme = 'ananke'
+image = 'Mackenzie-Wood.jpeg'
+
+[params]
+logo = "/images.Mackenzie-Wood.jpeg"
+
+[[ananke.social.networks]]
+slug = "github"
+label = "GitHub"
+color = "#6cc644"
+profile = "https://github.com/mwood881/"
+icon = "github" # font awesome brand icon name
+
+[params.ananke.social.share]
+networks = [
+  "github",
+  "linkedin"
+]
+
+[params.ananke.social.follow]
+networks = [
+  "github",
+  "linkedin"
+]
+
+[params.ananke.social.github]
+username = "mwood881"
+# profilelink = "https://www.github.com/mwood881"
+
+[params.ananke.social.linkedin]
+username = "mackenzie-wood-business"
+
+
+
+[[ananke.social.networks]]
+slug = "gitlab"
+label = "GitLab"
+color = "#FC6D26"
+profile = "https://gitlab.com/mwood881/"
+icon = "gitlab" # font awesome brand icon name
+
+[[ananke.social.networks]]
+slug = "linkedin"
+label = "LinkedIn"
+color = "#0077b5"
+profile = "http://linkedin.com/in/mackenzie-wood-business"
+icon = "linkedin" # font awesome brand icon name
+link = "https://www.linkedin.com/mackenzie-wood-business"
+[ananke.social.networks.particles]
+url = "permalink"
+title = "title"
+summary = "description"
+source = "permalink"
+params = "mini=true"
+
+
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    url = "/about/"
+
+[[menu.main]]
+    name = "Education"
+    identifier = "education"
+    url = "/education/"
+
+[[menu.main]]
+    name = "Experience"
+    identifier = "experience"
+    url = "/experience/"
+
+[[menu.main]]
+    name = "Soccer"
+    identifier = "soccer"
+    url = "/soccer/"

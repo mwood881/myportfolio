@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mackenzie Wood</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Mackenzie Wood</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Jan 2025 13:55:16 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 19 Jan 2025 13:55:16 -0600</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi, I’m Mackenzie Wood! I’m a Data Science student, professional soccer player, and passionate advocate for women in business and tech. Currently, I’m finishing my Master’s degree in Data Science at Northwestern University, after completing my Master’s in Business Analytics with a focus on Sports Analytics at the University of Notre Dame, where I graduated magna cum laude. I also hold a double major in Statistics and Communication Studies from Northwestern.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Sun, 19 Jan 2025 13:55:16 -0600</pubDate>
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;h3 id=&#34;january-2022---june-2025&#34;&gt;January 2022 - June 2025&lt;/h3&gt;&#xA;&lt;p&gt;Northwestern University, Evanston, IL&#xA;Master of Science in Data Science&#xA;Relevant Courses: Artificial Intelligence, Python for Data Analysis, Database Systems and Data Preparation&lt;/p&gt;&#xA;&lt;h3 id=&#34;august-2022---may-2023&#34;&gt;August 2022 - May 2023&lt;/h3&gt;&#xA;&lt;p&gt;University of Notre Dame, Notre Dame, IN&#xA;Master of Science in Business Analytics - Sports Analytics,&#xA;Honors: Magna Cum Laude (Top 2 in program)&#xA;Awards: All-ACC Academic Team, All-ACC Team&#xA;Relevant Courses: Data Visualization, Machine Learning, Unstructured Data Analytics, Network Structures&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Sun, 19 Jan 2025 13:55:16 -0600</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description>&lt;h3 id=&#34;2023--present&#34;&gt;2023 – Present&lt;/h3&gt;&#xA;&lt;p&gt;Data Science Researcher&#xA;Forté Women in Business&lt;/p&gt;&#xA;&lt;p&gt;I conduct data research to support strategic decision-making for the organization. I also am able to&#xA;analyze trends and provide insights into women’s leadership, contributing to initiatives promoting gender equality in business.&lt;/p&gt;&#xA;&lt;h3 id=&#34;august-2021--august-2022&#34;&gt;August 2021 – August 2022&lt;/h3&gt;&#xA;&lt;p&gt;Marketing Intern&#xA;Forté Women in Business&lt;/p&gt;&#xA;&lt;p&gt;I developed and executed a marketing strategy, increasing campaign effectiveness by 10%.&#xA;Analyzed website traffic and user engagement, providing actionable insights that improved content strategy and user experience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Soccer</title>
+      <link>http://localhost:1313/soccer/</link>
+      <pubDate>Sun, 19 Jan 2025 13:55:16 -0600</pubDate>
+      <guid>http://localhost:1313/soccer/</guid>
+      <description>&lt;h3 id=&#34;february-2023--present&#34;&gt;February 2023 – Present&lt;/h3&gt;&#xA;&lt;p&gt;Professional Goalkeeper&#xA;Chicago Red Stars, National Women’s Soccer League (NWSL)&lt;/p&gt;&#xA;&lt;h3 id=&#34;august-2023--january-2024&#34;&gt;August 2023 – January 2024&lt;/h3&gt;&#xA;&lt;p&gt;Loan to Stade de Reims, D1 Arkema French League&lt;/p&gt;&#xA;&lt;p&gt;-Helped lead the club to its best first half of the season, ranked 4th overall.&lt;/p&gt;&#xA;&lt;h3 id=&#34;august-2022--december-2022&#34;&gt;August 2022 – December 2022&lt;/h3&gt;&#xA;&lt;p&gt;University of Notre Dame, NCAA Division 1 (ACC)&lt;/p&gt;&#xA;&lt;p&gt;-2022 All-ACC Third Team,&lt;/p&gt;&#xA;&lt;p&gt;-2022 ACC Defensive Player of the Week (twice).&lt;/p&gt;&#xA;&lt;p&gt;-Ranked #1 in the country for Goals Against Average (0.300) in 2022.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
